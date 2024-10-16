@@ -1,0 +1,32 @@
+{
+    "mongo_instances" : {
+        "primary_1" : {
+            "connect": false,
+            "db" : "",
+            "host" : "",
+            "user" : "",
+            "pass" : "",
+            "options" : ""
+        }
+    },
+    "redis_instances" : {
+        "redis_1": {
+            "connect" : false,
+            "host" : "",
+            "port" : "",
+            "db" : "",
+            "timeout" : 5000
+        }
+    },
+    "cloudinary_instances": {
+        "cloudinary_1": {
+            "cloud_name": "",
+            "api_key": "",
+            "api_secret": "",
+            "cloudinary_url": ""
+        }
+    },
+    "application" : {
+        "port" : 8000
+    }
+}

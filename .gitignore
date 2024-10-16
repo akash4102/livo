@@ -1,0 +1,6 @@
+node_modules
+development.config.json
+production.config.json
+staging.config.json
+.vscode
+.DS_Store
